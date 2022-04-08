@@ -18,6 +18,8 @@ Sou programador desde 2003, sempre em busca de novas tecnologias.
 Formado em Análise de Sistemas e pós em Gerência de Projetos.
 
 ### Tecnologias e Ferramentas
-<i class="devicon-visualstudio-plain colored"></i> <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+          
           
           
