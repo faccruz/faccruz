@@ -19,7 +19,7 @@ Formado em Análise de Sistemas e pós em Gerência de Projetos.
 
 ### Tecnologias e Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" style="color:white;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" /> <img src="https://en.wikipedia.org/wiki/Delphi_(software)#/media/File:Embarcadero_Delphi_10.4_Sydney_Product_Logo_and_Icon.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" style="color:white;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" /> <img src="https://w7.pngwing.com/pngs/486/594/png-transparent-embarcadero-rad-studio-delphi-c-builder-computer-icons-rapid-application-development-others-studio-text-trademark.png" width="60" height="60" />
                     
           
           
