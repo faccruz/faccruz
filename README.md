@@ -22,8 +22,10 @@ Formado em Análise de Sistemas e pós em Gerência de Projetos.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" style="color:white;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" /> <img src="https://w7.pngwing.com/pngs/486/594/png-transparent-embarcadero-rad-studio-delphi-c-builder-computer-icons-rapid-application-development-others-studio-text-trademark.png" width="60" height="60" />
 
 ### Contatos
-
-                    
+<div>
+<a href = "mailto:fabio.cruz.sistemas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fabiocamposcruz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>                    
           
           
           
