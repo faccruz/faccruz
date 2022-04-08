@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 ## Olá, me chamo Fábio Cruz
 
+Sou programador desde 2003, sempre em busca de novas tecnologias.
+Formado em Análise de Sistemas e pós em Gerência de Projetos.
+
 ### Tecnologias e Ferramentas
 <i class="devicon-visualstudio-plain colored"></i> <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
           
