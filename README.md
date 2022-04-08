@@ -20,6 +20,9 @@ Formado em Análise de Sistemas e pós em Gerência de Projetos.
 ### Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" style="color:white;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" /> <img src="https://w7.pngwing.com/pngs/486/594/png-transparent-embarcadero-rad-studio-delphi-c-builder-computer-icons-rapid-application-development-others-studio-text-trademark.png" width="60" height="60" />
+
+### Contatos
+
                     
           
           
